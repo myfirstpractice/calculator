@@ -1,0 +1,8 @@
+{
+    "name": "imran/good",
+    "description": "This is demo",
+    "type": "laravel",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
